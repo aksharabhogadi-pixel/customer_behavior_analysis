@@ -1,0 +1,101 @@
+customer id,age,gender,item purchased,category,purchase amount (usd),location,size,color,season,review rating,subscription status,shipping type,discount applied,promo code used,previous purchases,payment method,frequency of purchases,age-group,purchase-frequent-no-of-days
+10002,65,Female,Blouse,Clothing,82,Boston,S,Brown,Winter,2.8,Yes,Free Shipping,No,No,14,Credit Card,Weekly,Senior,7
+10003,50,Male,Shoes,Footwear,70,Austin,S,Blue,Winter,4.1,No,Express,Yes,Yes,45,PayPal,Bi-Weekly,Middle age,14
+10004,24,Male,Sneakers,Footwear,117,Miami,S,Gray,Spring,3.4,Yes,Store Pickup,Yes,Yes,6,PayPal,Annually,Young age,365
+10005,30,Male,Hat,Accessories,31,Los Angeles,XL,Green,Winter,3.1,Yes,Express,Yes,Yes,42,Debit Card,Monthly,Adult,30
+10006,60,Female,Handbag,Accessories,38,Phoenix,M,Yellow,Spring,4.1,No,Standard,Yes,Yes,38,Credit Card,Monthly,Senior,30
+10007,22,Male,Parka,Outerwear,100,Miami,M,Green,Summer,4.1,No,Standard,No,No,13,Cash,Every 3 Months,Young age,90
+10008,55,Female,Belt,Accessories,122,Los Angeles,S,White,Summer,3.0,No,Standard,No,No,23,Venmo,Every 3 Months,Middle age,90
+10009,42,Female,Jacket,Clothing,84,Atlanta,L,Yellow,Spring,4.7,Yes,Express,No,No,35,Venmo,Bi-Weekly,Middle age,14
+10010,64,Female,Hoodie,Outerwear,148,Phoenix,M,Blue,Fall,2.9,No,Standard,No,No,48,Cash,Every 3 Months,Senior,90
+10011,38,Female,Skirt,Clothing,24,Phoenix,M,Black,Summer,4.8,No,Store Pickup,No,No,7,Credit Card,Weekly,Adult,7
+10012,66,Male,Hoodie,Outerwear,52,Seattle,M,Purple,Summer,3.7,No,Express,Yes,No,42,Venmo,Annually,Senior,365
+10013,51,Female,Scarf,Accessories,50,Houston,M,Black,Spring,3.1,Yes,Free Shipping,No,No,15,Debit Card,Weekly,Middle age,7
+10014,22,Male,T-shirt,Clothing,91,Portland,XL,Red,Winter,3.7,No,Next Day Air,No,No,42,Debit Card,Weekly,Young age,7
+10015,40,Female,Jacket,Clothing,125,Atlanta,S,Black,Winter,4.7,Yes,Express,No,No,29,Credit Card,Bi-Weekly,Middle age,14
+10016,52,Female,Shoes,Footwear,55,Los Angeles,XL,Purple,Spring,3.0,No,Free Shipping,No,No,27,Cash,Weekly,Middle age,7
+10017,28,Female,Shirt,Clothing,144,Seattle,L,Pink,Fall,3.0,No,Next Day Air,Yes,Yes,30,Cash,Annually,Adult,365
+10018,30,Female,Hoodie,Outerwear,75,New York,S,Brown,Winter,3.9,No,Store Pickup,No,No,3,Cash,Bi-Weekly,Adult,14
+10019,23,Male,Shorts,Clothing,37,Portland,M,Brown,Spring,2.7,No,Store Pickup,No,No,38,Credit Card,Quarterly,Young age,45
+10020,31,Female,Backpack,Accessories,81,Austin,S,Black,Winter,3.5,No,Store Pickup,Yes,Yes,16,Cash,Weekly,Adult,7
+10021,31,Female,Shorts,Clothing,53,Las Vegas,L,Brown,Spring,4.7,No,Store Pickup,Yes,Yes,22,PayPal,Annually,Adult,365
+10022,34,Male,Jeans,Clothing,47,San Francisco,L,Red,Fall,3.9,Yes,Store Pickup,No,No,47,Venmo,Monthly,Adult,30
+10023,58,Female,Sweater,Clothing,90,Phoenix,M,Pink,Winter,2.5,No,Store Pickup,No,No,2,Credit Card,Weekly,Senior,7
+10024,52,Male,Jeans,Clothing,114,Portland,S,Yellow,Summer,3.9,No,Standard,Yes,Yes,37,Credit Card,Monthly,Middle age,30
+10025,65,Male,Trench Coat,Outerwear,80,New York,M,Yellow,Winter,4.9,No,Standard,No,No,10,PayPal,Bi-Weekly,Senior,14
+10026,20,Female,Jacket,Clothing,76,Houston,M,Black,Summer,4.5,No,Next Day Air,Yes,Yes,12,PayPal,Monthly,Young age,30
+10027,40,Female,Dress,Clothing,104,Phoenix,S,White,Winter,2.8,No,Express,Yes,No,1,PayPal,Quarterly,Middle age,45
+10028,54,Male,Jacket,Clothing,85,Boston,M,Yellow,Winter,4.3,Yes,Free Shipping,No,No,2,PayPal,Every 3 Months,Middle age,90
+10029,25,Female,Belt,Accessories,149,Boston,M,Red,Winter,4.2,Yes,Next Day Air,No,No,19,Debit Card,Every 3 Months,Young age,90
+10030,53,Male,Scarf,Accessories,97,Dallas,XL,Pink,Winter,3.0,No,Standard,No,No,18,Cash,Quarterly,Middle age,45
+10031,36,Female,Sandals,Footwear,43,Chicago,S,Black,Summer,3.1,Yes,Next Day Air,No,No,48,Cash,Weekly,Adult,7
+10032,58,Male,Parka,Outerwear,118,Portland,S,Gray,Summer,3.5,Yes,Standard,No,No,31,Cash,Quarterly,Senior,45
+10033,33,Male,Shorts,Clothing,136,Denver,L,Pink,Winter,4.5,No,Store Pickup,No,No,8,Venmo,Bi-Weekly,Adult,14
+10034,34,Male,Parka,Outerwear,90,San Francisco,L,Red,Fall,4.4,No,Express,Yes,Yes,49,PayPal,Every 3 Months,Adult,90
+10035,27,Male,Jeans,Clothing,118,Dallas,XL,Gray,Spring,2.9,Yes,Standard,No,No,44,Venmo,Quarterly,Adult,45
+10036,42,Female,Skirt,Clothing,21,Las Vegas,XL,Purple,Summer,3.2,No,Next Day Air,No,No,22,Debit Card,Monthly,Middle age,30
+10037,19,Female,Parka,Outerwear,106,Chicago,S,Gray,Spring,4.2,No,Free Shipping,Yes,Yes,42,Venmo,Bi-Weekly,Young age,14
+10038,21,Female,Hoodie,Outerwear,117,Seattle,L,Gray,Fall,3.0,Yes,Free Shipping,No,No,20,Venmo,Weekly,Young age,7
+10039,32,Male,T-shirt,Clothing,30,Denver,M,Red,Summer,2.6,Yes,Next Day Air,No,No,48,Credit Card,Every 3 Months,Adult,90
+10040,62,Female,Boots,Footwear,114,Austin,M,Green,Spring,4.0,No,Store Pickup,No,No,10,Credit Card,Monthly,Senior,30
+10041,63,Male,Parka,Outerwear,39,Las Vegas,S,Brown,Spring,4.2,No,Express,Yes,Yes,37,Cash,Quarterly,Senior,45
+10042,50,Female,Jewelry,Accessories,23,Atlanta,XL,Blue,Winter,4.6,Yes,Standard,No,No,26,Cash,Annually,Middle age,365
+10043,69,Female,Hat,Accessories,139,Portland,S,Green,Winter,4.6,No,Standard,Yes,Yes,27,Venmo,Every 3 Months,Senior,90
+10044,19,Female,Parka,Outerwear,103,Denver,L,Purple,Spring,3.7,No,Store Pickup,Yes,Yes,11,Debit Card,Weekly,Young age,7
+10045,49,Male,Boots,Footwear,141,Seattle,M,Green,Fall,4.3,No,Next Day Air,Yes,Yes,41,Cash,Every 3 Months,Middle age,90
+10046,65,Female,Scarf,Accessories,110,Dallas,S,Purple,Summer,3.6,Yes,Standard,Yes,Yes,44,Debit Card,Annually,Senior,365
+10047,64,Female,Parka,Outerwear,45,Chicago,L,Black,Spring,3.2,No,Store Pickup,Yes,Yes,12,PayPal,Annually,Senior,365
+10048,24,Male,Boots,Footwear,92,Phoenix,XL,White,Spring,3.7,Yes,Next Day Air,No,No,30,Venmo,Weekly,Young age,7
+10049,27,Female,Jeans,Clothing,41,Austin,M,Purple,Winter,2.8,No,Next Day Air,No,No,15,Venmo,Monthly,Adult,30
+10050,54,Male,Parka,Outerwear,45,Chicago,M,Blue,Spring,3.0,Yes,Standard,No,No,48,Credit Card,Quarterly,Middle age,45
+10051,56,Female,Trench Coat,Outerwear,94,Miami,S,Red,Fall,3.1,No,Store Pickup,No,No,2,Debit Card,Quarterly,Senior,45
+10052,32,Male,Shorts,Clothing,88,Denver,L,Pink,Spring,2.7,Yes,Next Day Air,Yes,Yes,9,PayPal,Annually,Adult,365
+10053,50,Female,Parka,Outerwear,132,Denver,L,Black,Spring,4.0,No,Standard,No,No,5,Cash,Every 3 Months,Middle age,90
+10054,54,Male,Dress,Clothing,64,Seattle,XL,White,Winter,3.8,No,Express,Yes,No,30,Venmo,Monthly,Middle age,30
+10055,24,Male,Belt,Accessories,104,Las Vegas,S,Pink,Spring,4.2,Yes,Express,No,No,26,PayPal,Monthly,Young age,30
+10056,50,Male,Jacket,Clothing,138,Miami,XL,Black,Summer,2.6,No,Express,No,No,26,Cash,Bi-Weekly,Middle age,14
+10057,62,Female,Scarf,Accessories,51,Boston,S,Purple,Winter,4.9,No,Free Shipping,Yes,Yes,1,Debit Card,Weekly,Senior,7
+10058,59,Male,Hoodie,Outerwear,147,Miami,XL,Red,Winter,3.2,No,Store Pickup,No,No,45,Debit Card,Quarterly,Senior,45
+10059,22,Female,Shoes,Footwear,126,Phoenix,L,Brown,Winter,4.8,No,Standard,No,No,21,Venmo,Every 3 Months,Young age,90
+10060,39,Female,Parka,Outerwear,136,Las Vegas,XL,Black,Fall,4.7,No,Next Day Air,Yes,Yes,20,Venmo,Quarterly,Adult,45
+10061,20,Male,Boots,Footwear,148,Los Angeles,XL,Black,Summer,3.3,Yes,Next Day Air,No,No,37,Debit Card,Weekly,Young age,7
+10062,39,Female,Parka,Outerwear,40,San Francisco,XL,Purple,Spring,4.6,No,Store Pickup,Yes,Yes,21,Credit Card,Bi-Weekly,Adult,14
+10063,65,Male,Handbag,Accessories,131,Phoenix,S,Black,Fall,4.4,No,Free Shipping,Yes,Yes,6,PayPal,Monthly,Senior,30
+10064,27,Male,Scarf,Accessories,125,Seattle,M,Pink,Summer,4.2,Yes,Standard,Yes,Yes,36,Venmo,Annually,Adult,365
+10065,34,Male,Scarf,Accessories,139,Dallas,L,Gray,Fall,4.2,Yes,Next Day Air,No,No,18,PayPal,Bi-Weekly,Adult,14
+10066,24,Male,Parka,Outerwear,117,New York,XL,Green,Spring,3.4,Yes,Store Pickup,No,No,36,Credit Card,Every 3 Months,Young age,90
+10067,67,Male,Parka,Outerwear,110,San Francisco,M,White,Spring,4.1,No,Express,No,No,14,Venmo,Weekly,Senior,7
+10068,26,Male,Belt,Accessories,95,Dallas,L,Blue,Fall,4.4,Yes,Next Day Air,Yes,Yes,20,PayPal,Annually,Young age,365
+10069,25,Female,Sunglasses,Accessories,39,Atlanta,XL,Purple,Fall,4.4,Yes,Free Shipping,No,No,9,Venmo,Weekly,Young age,7
+10070,25,Female,Hat,Accessories,114,Dallas,S,Red,Winter,4.4,Yes,Free Shipping,Yes,Yes,43,Cash,Every 3 Months,Young age,90
+10071,32,Male,Hat,Accessories,138,Phoenix,XL,White,Spring,3.3,No,Standard,Yes,No,44,Cash,Bi-Weekly,Adult,14
+10072,41,Female,Parka,Outerwear,59,Phoenix,S,Yellow,Summer,4.1,No,Next Day Air,No,No,26,Venmo,Bi-Weekly,Middle age,14
+10073,61,Female,Jewelry,Accessories,111,Miami,S,Red,Spring,3.5,Yes,Free Shipping,Yes,Yes,3,PayPal,Bi-Weekly,Senior,14
+10074,22,Male,Shoes,Footwear,75,New York,L,Blue,Summer,3.3,Yes,Store Pickup,No,No,14,PayPal,Bi-Weekly,Young age,14
+10075,26,Male,Blouse,Clothing,111,Chicago,XL,Purple,Spring,4.5,No,Free Shipping,Yes,Yes,50,Venmo,Quarterly,Young age,45
+10076,55,Male,Hat,Accessories,135,Portland,L,Pink,Spring,3.1,No,Free Shipping,No,No,32,Venmo,Quarterly,Middle age,45
+10077,24,Female,Trench Coat,Outerwear,133,Denver,L,Gray,Fall,4.7,Yes,Next Day Air,Yes,Yes,4,Cash,Every 3 Months,Young age,90
+10078,68,Male,Hoodie,Outerwear,75,Seattle,S,Yellow,Winter,3.6,Yes,Express,Yes,Yes,27,PayPal,Monthly,Senior,30
+10079,22,Male,Boots,Footwear,41,New York,L,White,Winter,3.6,No,Express,Yes,Yes,5,Venmo,Annually,Young age,365
+10080,56,Female,Dress,Clothing,110,Houston,S,Yellow,Fall,3.9,Yes,Free Shipping,No,No,6,PayPal,Every 3 Months,Senior,90
+10081,53,Male,Boots,Footwear,88,New York,M,Blue,Winter,3.0,No,Free Shipping,Yes,Yes,1,Debit Card,Annually,Middle age,365
+10082,65,Male,Sweater,Clothing,116,Denver,S,Black,Summer,3.6,Yes,Standard,Yes,Yes,26,Cash,Weekly,Senior,7
+10083,46,Female,Dress,Clothing,144,Los Angeles,L,Gray,Spring,3.6,Yes,Express,No,No,38,Cash,Quarterly,Middle age,45
+10084,32,Female,Jewelry,Accessories,34,Austin,L,Green,Fall,3.0,No,Free Shipping,No,No,0,Credit Card,Quarterly,Adult,45
+10085,26,Female,Hoodie,Outerwear,78,San Francisco,S,Gray,Spring,3.9,No,Next Day Air,Yes,Yes,32,Credit Card,Monthly,Young age,30
+10086,43,Female,Trench Coat,Outerwear,94,Miami,L,White,Winter,3.5,No,Free Shipping,Yes,No,7,Debit Card,Quarterly,Middle age,45
+10087,23,Female,Trench Coat,Outerwear,99,Los Angeles,M,Yellow,Fall,3.3,Yes,Standard,Yes,Yes,47,Debit Card,Weekly,Young age,7
+10088,30,Male,Sneakers,Footwear,59,Atlanta,XL,Pink,Winter,4.4,Yes,Store Pickup,No,No,48,Cash,Monthly,Adult,30
+10089,46,Male,Handbag,Accessories,140,Dallas,S,Green,Winter,4.1,No,Next Day Air,No,No,28,Credit Card,Weekly,Middle age,7
+10090,36,Male,Sunglasses,Accessories,43,Austin,S,Pink,Summer,4.0,No,Express,No,No,39,Cash,Quarterly,Adult,45
+10091,46,Male,Sandals,Footwear,107,Miami,M,Yellow,Fall,2.7,No,Express,Yes,Yes,45,Venmo,Quarterly,Middle age,45
+10092,56,Male,Belt,Accessories,105,Las Vegas,M,Yellow,Spring,3.3,No,Store Pickup,Yes,Yes,4,Debit Card,Monthly,Senior,30
+10093,62,Female,Belt,Accessories,53,Atlanta,L,Blue,Spring,4.3,Yes,Next Day Air,No,No,38,Cash,Monthly,Senior,30
+10094,37,Male,T-shirt,Clothing,74,Los Angeles,L,White,Spring,4.9,No,Express,Yes,Yes,21,Cash,Bi-Weekly,Adult,14
+10095,28,Male,Hoodie,Outerwear,62,Houston,XL,Brown,Fall,3.6,No,Next Day Air,No,No,46,Debit Card,Every 3 Months,Adult,90
+10096,69,Female,Sneakers,Footwear,69,Austin,L,Gray,Winter,4.2,No,Standard,No,No,23,Debit Card,Every 3 Months,Senior,90
+10097,21,Female,Sneakers,Footwear,115,Los Angeles,L,White,Summer,4.8,No,Express,No,No,35,Venmo,Every 3 Months,Young age,90
+10098,23,Male,Boots,Footwear,135,Seattle,S,Yellow,Summer,4.8,No,Free Shipping,Yes,Yes,22,PayPal,Weekly,Young age,7
+10099,27,Male,Sunglasses,Accessories,29,Austin,XL,Pink,Spring,4.8,No,Free Shipping,No,No,18,Credit Card,Monthly,Adult,30
+10100,53,Female,Shoes,Footwear,48,Austin,XL,White,Spring,3.2,Yes,Next Day Air,Yes,Yes,49,Cash,Every 3 Months,Middle age,90
+10101,54,Male,Shorts,Clothing,56,Atlanta,S,Purple,Fall,3.6,No,Free Shipping,Yes,Yes,18,Cash,Every 3 Months,Middle age,90
